@@ -2,7 +2,8 @@ import openai
 from django.shortcuts import render
 from django.http import JsonResponse
 
-openai_api_key = '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'
+#openai_api_key = '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'
+openai_api_key = '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'
 openai.api_key = openai_api_key
 
 
